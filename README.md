@@ -1,6 +1,13 @@
 # Fixed Window
 
+Open a file with the customizable fixed-width-window.
+
 ## What's This
+
+This package can open a file with the customizable _fixed-window_ (fixed width window).  
+Optionally it can disable to switch from other-window, make itself dedicated, disable truncate etc.
+
+[![Image from Gyazo](https://i.gyazo.com/9e379fc260fd4655d8bc27d2654f9eed.gif)](https://gyazo.com/9e379fc260fd4655d8bc27d2654f9eed)
 
 ## Setup
 
